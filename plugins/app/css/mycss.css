@@ -1,0 +1,13 @@
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.top {
+    margin-top: 10px;
+}
+
+#error{
+    background-color: red;
+}
